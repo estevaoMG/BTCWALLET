@@ -1,4 +1,4 @@
-# BTCWALLET
+# btcwallet
 
 ## Desenvolvimento de um Gerador de Carteiras Bitcoin, para realizar transações de envio e recebimento de Bitcoin.
 
