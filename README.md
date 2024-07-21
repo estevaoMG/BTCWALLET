@@ -1,6 +1,6 @@
 # btcwallet
 
-## Desenvolvimento de um Gerador de Carteiras Bitcoin, para realizar transações de envio e recebimento de Bitcoin.
+## Gerador de Carteiras Bitcoin, para realizar transações de envio e recebimento de Bitcoin.
 
 ## Tecnologias utilizadas:
 
@@ -15,24 +15,26 @@
 - cd .\src\
 - node .\createWallet.js
 
-## Instalar Electrum
+### Instalar Electrum
 
-- Baixar e instalar a partir do site: electrum.org
+- Baixar e instalar a partir do site: https://electrum.org/#download
 
-## Pesquisar endereço da carteira gerada (Testnet)
+### Pesquisar endereço da carteira gerada (Testnet)
 
-- https://live.blockcypher.com/btc-testnet/
+https://live.blockcypher.com/btc-testnet/
 
-## Adquirir criptomoeda de teste - Bitcoin Faucet
+### Adquirir criptomoeda de teste - Bitcoin Faucet
 
-- https://coinfaucet.eu/en/btc-testnet/
+https://coinfaucet.eu/en/btc-testnet/
 
-## Electrum - Renomear caminho de executável do ícone da área de trabalho, acrescentando o seguinte código:
+### Electrum - Renomear caminho de executável do ícone da área de trabalho, acrescentando o seguinte código:
 
 - caminho do arquivo... --testnet
 
-## Abrir Elecrtum criando uma nova carteira, importando a chave privada.
+### Executando:
 
-## Enviar criptomoedas para um novo endereço.
+- Abrir Elecrtum criando uma nova carteira, importando a chave privada.
 
-## Transação concluída!
+- Enviar criptomoedas para um novo endereço.
+
+- Transação concluída!
